@@ -61,7 +61,7 @@ accent-color:0;
     position: absolute;
     width: 100%; /* Mengatur tinggi gambar */
     height: 115vh; /* Mengatur lebar gambar */
-    background: url('gambar/ang.jpg'); /* Menambahkan gambar background */
+    background: url('ang.jpg'); /* Menambahkan gambar background */
     background-size: cover; /* Mengatur size gambar */
     background-position: center; /* Mengatur posisi gambar */
     display: flex; /* Mengatur letak  */
